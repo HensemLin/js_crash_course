@@ -48,7 +48,7 @@ Follow these steps to explore and run the projects:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd javascript-tutorial
+   cd js_crash_course
 
    ```
 
